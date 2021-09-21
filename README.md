@@ -156,4 +156,4 @@ All resampling methods had almost the same effect -- all accuracy and recall sco
 
 ### Recommendation: 
 
-We recommend the Easy Ensemble AdaBoost Classifier. It had the best balanced accuracy score out of all models, and it also produced the highest recall scores out of all models. 
+We recommend the Easy Ensemble AdaBoost Classifier, despite its low precision score for high risk. It had the best balanced accuracy score out of all models, and it also produced the highest recall scores out of all models. 
